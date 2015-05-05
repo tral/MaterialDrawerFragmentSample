@@ -1,0 +1,24 @@
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+    -->
+
+    <style name="AppThemeDrawer" parent="MaterialDrawerTheme.Light.DarkToolbar.TranslucentStatus">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/window_background</item>
+
+    </style>
+
+    <style name="AppThemeNonDrawer" parent="MaterialDrawerTheme.Light.DarkToolbar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/window_background</item>
+
+    </style>
+
+</resources>

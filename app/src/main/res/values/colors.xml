@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- 500 -->
+    <color name="primary">#F44336</color>
+    <color name="primary_dynamic">#F44336</color>
+    <!-- 700 -->
+    <color name="primary_dark">#D32F2F</color>
+    <!-- A200/A400/A700 -->
+    <color name="accent">#00C853</color>
+    <!-- 50 light / 900 dark -->
+    <color name="window_background">#FFEBEE</color>
+    <!-- 300 -->
+    <color name="lolli_btn">#E57373</color>
+    <color name="color_white">#FFFFFF</color>
+</resources>

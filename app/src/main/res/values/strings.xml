@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrawerFragment</string>
+
+    <!-- Navigation Drawer-->
+    <string name="info_fr1">Фрагмент 1</string>
+    <string name="info_fr2">Фрагмент 2</string>
+    <string name="info_fr3">Фрагмент 3</string>
+
+
+</resources>
